@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Welcome to Millennial!"
-author: "Paul Le"
+title: "Welcome to MZ-World!"
+author: "Woong Ji"
 categories: documentation
 tags: [documentation,sample]
 image: cuba-1.jpg
