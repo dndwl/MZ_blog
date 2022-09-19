@@ -4,7 +4,7 @@ disqus:
   disqus_shortname: 'millennial-3'
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
-google-ID: 'UA-112060364-2'
+google-ID: ''
 
 menu:
 - {name: 'Interesting Facts',  url: 'facts'}
@@ -28,8 +28,8 @@ pagination:
   next_page: 'Newer'
   previous_page: 'Older'
 
-sharing_button_prompt: 'Feel free to share!'
+sharing_button_prompt: '포기하지 말고 끝까지 해보자'
 
-related_posts: 'You may also enjoy...'
+related_posts: 'You may also enjoy...my homepage..'
 
 post_date_prefix: 'Written on'
